@@ -1,40 +1,19 @@
-# Astroship - Astro SAAS Starter Website Template
-#### Preview
-
- - [Demo](https://themewagon.github.io/astroship/)
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/astroship/)
-
-## Getting Started
-
-1. Clone Repository
-```
-git clone https://github.com/themewagon/astroship.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-## Author 
-```
-Design and code is completely written by Web3Templates and development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; <a href="https://web3templates.com/" target="_blank">Web3Templates</a>
- - Licensed cover under [GPL-3.0]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Instant DNS/Browser Redirect -->
+    <meta http-equiv="refresh" content="0; url=https://iscreamjoshua.bandcamp.com">
+    <link rel="canonical" href="https://iscreamjoshua.bandcamp.com">
+    <title>Redirecting to Bandcamp...</title>
+    
+    <script>
+        // Immediate JavaScript fallback redirect
+        window.location.href = "https://iscreamjoshua.bandcamp.com";
+    </script>
+</head>
+<body>
+    <!-- Fallback message for slow connections or disabled JavaScript -->
+    <p>Redirecting to Bandcamp... If you are not redirected automatically, <a href="https://iscreamjoshua.bandcamp.com">click here</a>.</p>
+</body>
+</html>
