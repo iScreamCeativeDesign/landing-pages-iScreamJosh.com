@@ -1,12 +1,4 @@
-{
-  "extends": "astro/tsconfigs/base",
-  "compilerOptions": {
-    "baseUrl": ".",
-    "strictNullChecks": true,
-    "types": ["astro/client"],
-    "paths": {
-      "@/*": ["src/*"],
-      "~/*": ["./*"]
-    }
-  }
-}
+<script>
+    // Immediate JavaScript fallback redirect
+    window.location.href = "https://iscreamjoshua.bandcamp.com";
+</script>
